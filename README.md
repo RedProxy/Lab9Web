@@ -184,8 +184,9 @@ php spark db:seed UserSeeder
 ```
 
 # Uji Coba Login
-<p>Selanjutnya buka url http://localhost:8080/user/login seperti berikut:
-Selanjutnya saya coba masuk Login dengan memasukkan kode :</p>
+- Selanjutnya buka url http://localhost:8080/user/login seperti berikut:
+
+- Selanjutnya saya coba masuk Login dengan memasukkan kode :
 
 **`Email :alwi123@email.com`**<br>
 **`Password :alwi123`**
@@ -236,8 +237,8 @@ class Auth implements FilterInterface
 ![Config Routes](img/config_routes.png)
 
 # Percobaan Akses Menu Admin
-<p>Buka url dengan alamat http://localhost:8080/admin/artikel ketika alamat tersebut diakses maka,
-akan dimuculkan halaman login.</p>
+- Buka url dengan alamat http://localhost:8080/admin/artikel ketika alamat tersebut diakses maka,
+akan dimuculkan halaman login.
 
 ![Tampilan Login](img/login.png)
 
