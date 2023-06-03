@@ -1,4 +1,4 @@
-# Tugas Pemrograman Web 2 (Praktikum 9)
+# Tugas Pemrograman Web 2
 ## Profil
 | #               | Biodata                      |
 | --------------- | ---------------------------- |
